@@ -30,14 +30,11 @@ DB_PW = (your SQL password goes here)
 
 
 ## Demo
-[How to get started and install application]
-(https://drive.google.com/file/d/1LvvhgUDJD0OxSbSLH1M-UF6qWmfSAr4r/view)
+[How to get started and install application](https://drive.google.com/file/d/1LvvhgUDJD0OxSbSLH1M-UF6qWmfSAr4r/view)
 
-[Testing out ```GET``` and ```POST``` in Insomnia]
-(https://drive.google.com/file/d/1ofxm4PTEGlL-yigjecPtFG082UWbqlxq/view)
+[Testing out ```GET``` and ```POST``` in Insomnia](https://drive.google.com/file/d/1ofxm4PTEGlL-yigjecPtFG082UWbqlxq/view)
 
-[Testing out ```PUT``` and ```DELETE``` in Insomnia]
-(https://drive.google.com/file/d/1_n7sevo32Jm0crSQXixfCmm2fVjl9sgk/view)
+[Testing out ```PUT``` and ```DELETE``` in Insomnia](https://drive.google.com/file/d/1_n7sevo32Jm0crSQXixfCmm2fVjl9sgk/view)
 
 
 ## Credits
