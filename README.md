@@ -20,7 +20,7 @@ DB_NAME = ecommerce_db
 DB_USER = (your SQL user name goes here)
 DB_PW = (your SQL password goes here)
 ```
-* In the terminal run ```mysqp -u(your user name goes here) -p``` which you will then see a prompt to type in your mysql password.
+* In the terminal run ```mysql -u(your user name goes here) -p``` which you will then see a prompt to type in your mysql password.
 * Then run ```source db/schema.sql``` after this takes effect run ```quit``` to exit out of the mysql terminal back into bash.
 * To seed test run ```npm run seed ``` in the terminal.
 * Start the server by running ```npm start``` the terminal should now say ```App listening on port 3001!```
